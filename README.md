@@ -1,8 +1,8 @@
-# Exploratory Data Analysis Projects
+# *Exploratory Data Analysis Projects*
 
 Welcome to my GitHub repository showcasing two exciting Exploratory Data Analysis (EDA) projects. In this collection, I've undertaken a journey of exploration and insight discovery using the power of EDA.
 
-## Introduction to Exploratory Data Analysis (EDA)
+## ***Introduction to Exploratory Data Analysis (EDA)***
 
 Exploratory Data Analysis is a crucial phase in the data science lifecycle. It involves the initial investigation of data to uncover patterns, trends, and anomalies. EDA plays a pivotal role in transforming raw data into meaningful insights, guiding subsequent analyses, and aiding in informed decision-making.
 
