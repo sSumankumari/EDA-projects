@@ -20,7 +20,7 @@ Explore the dynamic landscape of IPL Auctions with this project. Gain insights i
 - Python (Jupyter Notebooks)
 - Pandas, NumPy, Matplotlib
 
-*Project Link:* https://github.com/sSumankumari/EDA-projects/blob/222b359bf939f3bf0ba9319cd3cbf71c068bb706/EDA%20project%201/IPL%20Auction%20EDA.ipynb
+*Project Link:* http://tinyurl.com/EDA-ipl-auction
 
 ## Project 2: Netflix Movies EDA
 Dive into the world of Netflix Movies through this EDA project. Uncover patterns, genres, and distribution of movies available on the platform.
@@ -34,7 +34,7 @@ Dive into the world of Netflix Movies through this EDA project. Uncover patterns
 - Python (Jupyter Notebooks)
 - Pandas, NumPy, Matplotlib
 
-*Project Link:* https://github.com/sSumankumari/EDA-projects/blob/222b359bf939f3bf0ba9319cd3cbf71c068bb706/EDA%20project%202/Netflix%20EDA.ipynb
+*Project Link:* http://tinyurl.com/EDA-netflix
 
 Through these projects, experience the transformative capabilities of EDA in understanding data, extracting meaningful insights, and setting the stage for informed decision-making.
 
